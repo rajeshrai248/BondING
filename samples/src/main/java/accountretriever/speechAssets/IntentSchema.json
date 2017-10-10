@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "GetAccountBalanaceIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
